@@ -1,0 +1,7 @@
+﻿llm/
+companion/models/
+companion/cache/
+companion/timeline.jsonl
+companion/advice_state.json
+__pycache__/
+*.pyc
